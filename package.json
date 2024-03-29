@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "name": "myguessing-game87",
+  "version": "1.0.0",
+  "description": "this is cli based number guessing game",
+  "main": "index.js",
+   "type": "module",
+  " publishConfig": {
+    "accsess": "public"
+  },
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+     
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+}
